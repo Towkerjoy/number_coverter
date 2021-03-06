@@ -1,0 +1,129 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    background: #efefee;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    max-width: 700px;
+    background: #fff;
+    min-height: 100vh;
+    margin: 0 auto;
+}
+
+header {
+    width: 100%;
+    padding: 1.25rem;
+    background: #424242;
+    color: #fff;
+    font-family: Arim Madurai;
+    font-weight: 900;
+    font-size: 1.75rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+section {
+    padding: 1rem 2rem;
+}
+
+section h2 {
+    font-family: Arim Madurai;
+    font-size: 1.25rem;
+    color: #424242;
+
+}
+
+section .box {
+    width: 100%;
+    background: #fff;
+    box-shadow: 0 0px 10px 1px rgba(0, 0, 0, 0.1);
+    margin-top: 1rem;
+    padding: 0.5rem 1.5rem;
+    border-radius: .25rem;
+}
+
+.input-group {
+    margin: 1rem 0;
+}
+
+.input-group label {
+    display: block;
+    font-size: 1rem;
+    color: #666;
+    text-align: left;
+    font-family: Arim Madurai;
+}
+
+.input-group input {
+    display: block;
+    width: 100%;
+    font-size: 1rem;
+    padding: .5rem;
+    margin-top: 0.5rem;
+    border-radius: .25rem;
+    background: transparent;
+    border: 1px solid #ccc;
+    outline: none;
+    font-family: Arim Madurai;
+}
+
+.reset {
+    display: flex;
+}
+
+.reset button {
+    margin-left: auto;
+    padding: 0.5rem 1rem;
+    background: #fff;
+    border: 2px solid #ff1717;
+    border-radius: .25rem;
+    color: #ff1717;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: .75rem;
+    cursor: pointer;
+    transition: .5s;
+    font-weight: bold;
+}
+
+.reset button:hover {
+    background: #ff1717;
+    color: #fff;
+    border: 2px solid #ff1717;
+}
+
+.input-group textarea {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    max-height: 150px;
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    font-size: 1rem;
+    outline: none;
+    background: transparent;
+    border: 1px solid #ccc;
+    resize: none;
+    font-family: Arim Madurai;
+}
+
+/* Extra Class For Margin */
+.one-rem-margin {
+    margin-top: 1rem;
+}
+
+.one-rem-space {
+    height: 1rem;
+}
+
+.half-rem-space {
+    height: 0.5rem;
+}

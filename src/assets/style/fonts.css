@@ -1,0 +1,11 @@
+@font-face{
+    font-family: Arim Madurai;
+    src: url(./font/ArimaMadurai-Regular.ttf) format('truetype');
+    weight: normal;
+}
+
+@font-face{
+    font-family: Arim Madurai;
+    src: url(./font/ArimaMadurai-Bold.ttf) format('truetype');
+    weight: bold;
+}
