@@ -14,6 +14,8 @@ I hope you will injoy this project and help to develop your skills.
 
 ### Images 
 ![](img/full_section.png)
+![](img/number_section.png)
+![](img/text_section.png)
 
 ### Run The Project 
 ```
