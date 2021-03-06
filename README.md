@@ -9,7 +9,7 @@ decimal to Hexadecimal Convert, Hexadecimal to Decimal, Octal and Binary
 Also It will help you To Covert
 Text to Binary and Binary To Text. 
 
-I hoy you will injoy this project and help to develop your skills. 
+I hope you will injoy this project and help to develop your skills. 
 ### Thank You
 
 ### Run The Project 
