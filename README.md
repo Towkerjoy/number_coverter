@@ -12,6 +12,9 @@ Text to Binary and Binary To Text.
 I hope you will injoy this project and help to develop your skills. 
 ### Thank You
 
+### Images 
+![](img/full_section.png)
+
 ### Run The Project 
 ```
 npm run serve
