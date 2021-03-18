@@ -1,4 +1,4 @@
-# Number and Text Converter
+# Number and Text Converters
 
 This Project will be help you to conver 
 
@@ -18,6 +18,8 @@ I hope you will injoy this project and help to develop your skills.
 ![](img/number_section.png)
 ### Text Section
 ![](img/text_section.png)
+
+### Add node modules file than follow Run the project.
 
 ### Run The Project 
 ```
